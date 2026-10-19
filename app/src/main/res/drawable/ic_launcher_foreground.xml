@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Alarm resonance arcs inside 66dp safe zone -->
+    <path
+        android:pathData="M31,32 A26,26 0 0,1 42,24"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M77,32 A26,26 0 0,0 66,24"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+    <!-- Bold Spider-Man Mask Silhouette -->
+    <path
+        android:fillColor="#E23636"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.2"
+        android:pathData="M54,25 C38,25 30,38 32,56 C34,72 43,84 54,84 C65,84 74,72 76,56 C78,38 70,25 54,25 Z" />
+    <!-- Mask Web Lines -->
+    <path
+        android:strokeColor="#111111"
+        android:strokeWidth="1.5"
+        android:pathData="M54,25 L54,84 M32,55 L76,55 M35,41 Q54,46 73,41 M36,69 Q54,74 72,69" />
+    <!-- Left Comic Eye -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#111111"
+        android:strokeWidth="2.8"
+        android:strokeLineJoin="round"
+        android:pathData="M36,49 C38,60 46,62 51,55 C48,48 41,45 36,49 Z" />
+    <!-- Right Comic Eye -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#111111"
+        android:strokeWidth="2.8"
+        android:strokeLineJoin="round"
+        android:pathData="M72,49 C70,60 62,62 57,55 C60,48 67,45 72,49 Z" />
+</vector>

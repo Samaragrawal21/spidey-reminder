@@ -1,0 +1,6 @@
+{
+  "name": "Spidey Reminder",
+  "description": "A 100% offline custom task reminder application featuring a Dark Spider-Man Comic UI, Room database persistence, and a dual-mode lock screen and floating overlay alert engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
